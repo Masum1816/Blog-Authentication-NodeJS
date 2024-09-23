@@ -1,13 +1,17 @@
 User Authentication and Profile Management Web App
 
 Project Overview:
+
 This project is a web application built with Node.js and Express.js that implements user authentication and profile management functionalities. It allows users to sign up, log in, and view their profile. The application uses bcrypt for password hashing to ensure secure authentication and MongoDB for storing user data.
 
 Key Features:
 
 User Registration: Allows new users to sign up with a unique email and password.
+
 User Login: Enables registered users to log in with their credentials.
+
 Password Hashing: Passwords are securely stored using bcrypt hashing.
+
 Profile Management: Once logged in, users can view their profile information.
 
 
