@@ -14,14 +14,17 @@ Password Hashing: Passwords are securely stored using bcrypt hashing.
 
 Profile Management: Once logged in, users can view their profile information.
 
+<img width="1494" alt="Screenshot 2024-09-23 at 8 18 07 PM" src="https://github.com/user-attachments/assets/0f2d6f3b-1324-4c3e-afb3-a75e3c2af1b7">
 
-<img width="1494" alt="Screenshot 2024-09-23 at 7 58 40 PM" src="https://github.com/user-attachments/assets/0325b480-cc7c-44ec-8aed-1e6524026329">
+<img width="1494" alt="Screenshot 2024-09-23 at 8 17 59 PM" src="https://github.com/user-attachments/assets/26443b52-9c9e-4f90-a46d-d6cf28ae6a73">
 
-<img width="1494" alt="Screenshot 2024-09-23 at 7 55 44 PM" src="https://github.com/user-attachments/assets/43117bf2-a7a4-4a9e-baa4-d762e82b4389">
+<img width="1494" alt="Screenshot 2024-09-23 at 8 17 41 PM" src="https://github.com/user-attachments/assets/bacf55a9-1b0f-4be5-bfc6-0817432321eb">
 
-<img width="1494" alt="Screenshot 2024-09-23 at 7 55 28 PM" src="https://github.com/user-attachments/assets/866d1029-399b-4ee6-9ae7-ee290434a91b">
+<img width="1494" alt="Screenshot 2024-09-23 at 8 17 51 PM" src="https://github.com/user-attachments/assets/6a10c4a6-631a-4b9f-a9c5-06c5b7e515cd">
 
-<img width="1494" alt="Screenshot 2024-09-23 at 7 55 36 PM" src="https://github.com/user-attachments/assets/ec6eec9e-cc72-43a2-914a-b8d17424bab0">
+
+
+
 
 
 
